@@ -1,1 +1,1 @@
-funny how things go from one thing to another
+funny how things go from one thing to another.
