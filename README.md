@@ -1,3 +1,3 @@
-funny how things go from one thing to another.
+rcti
 
-and wow, github in dark mode. uwu
+ok.
