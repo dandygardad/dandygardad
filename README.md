@@ -9,3 +9,5 @@ I'm Dandy Garda, a passionate Backend developer.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dandygarda/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mplukuts/)
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
